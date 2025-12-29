@@ -4,8 +4,8 @@
   "private": true,
   "description": "This is Ep9 of react course",
   "scripts": {
-    "start": "parcel index9.html",
-    "build": "parcel build index9.html"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "dependencies": {
     "parcel": "^2.15.4",
