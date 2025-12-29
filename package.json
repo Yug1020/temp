@@ -4,9 +4,14 @@
   "description": "This is Ep8 of react course",
   "scripts": {
     "start": "parcel index9.html",
+<<<<<<< HEAD
     "test": "test",
     "predeploy":"npm run dev",
     "deploy":"gh-pages -d build"
+=======
+    "build": "parcel build index9.html",
+    "test": "test"
+>>>>>>> ef1f40b7d8cd591e8806914a03cc32f524c7242c
   },
   "repository": {
     "type": "git",
