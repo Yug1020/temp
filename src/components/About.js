@@ -12,7 +12,7 @@ class About extends Component{
     render(){
         return(
         <div>
-            <h1>About a hagesh developer</h1>
+            <h1>About a developer</h1>
             <User name={"The King In North"}></User>
             {/* {console.log("render parent class")} */}
         </div>
