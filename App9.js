@@ -7,7 +7,6 @@ import Error from "./src/components/Error";
 import Contact from "./src/components/Contact";
 import Resmenu from "./src/components/Resmenu";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"
-import { lazy } from "react";
 import ShimmerUI from "./src/components/ShimmerUI";
 
 const Grocery = lazy(() => import("./src/components/Grocery"))
