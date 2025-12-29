@@ -4,7 +4,7 @@ import Header from "./src/components/Header";
 import Body from "./src/components/Body";
 import About from "./src/components/About";
 import Error from "./src/components/Error";
-import Contact from "./src/components/contact";
+import Contact from "./src/components/Contact";
 import Resmenu from "./src/components/Resmenu";
 import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom"
 import { lazy } from "react";
