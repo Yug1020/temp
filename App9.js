@@ -47,7 +47,7 @@ const router = createBrowserRouter([
                 element:<Suspense fallback = {<ShimmerUI></ShimmerUI>} > <Grocery></Grocery> </Suspense> 
             },
             {
-                path:"/*",
+                path:"*",
                 element:<Error></Error>
             }
             
