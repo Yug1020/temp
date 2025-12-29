@@ -4,6 +4,7 @@
   "description": "This is Ep8 of react course",
   "scripts": {
     "start": "parcel index9.html",
+    "build": "parcel build index.html",
     "test": "test"
   },
   "repository": {
